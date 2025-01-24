@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @polalagi-dev
-- 👀 I’m interested in PHP, HTML, JavaScript, PYTHON 
-- 🌱 I’m currently learning C
-- 📫 How to reach me: Discord polalagi#8140
+hello, I'm polalagi. I'm currently interested in python, javascript/typescript and luau. if you want to contact me, message polalagi on discord.
 
 <!---
 polalagi-dev/polalagi-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
